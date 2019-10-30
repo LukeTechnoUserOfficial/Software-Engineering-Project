@@ -1,0 +1,21 @@
+C:\Users\computing\Desktop\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News App.pdb
+C:\Users\computing\Desktop\News App\News App\obj\Debug\News_App.Login.resources
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\bin\Debug\News App.exe.config
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\bin\Debug\News App.exe
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\bin\Debug\News App.pdb
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News_App.Form1.resources
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News_App.Login.resources
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News App.csproj.CoreCompileInputs.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News App.exe
+C:\Users\computing\Desktop\Software-Engineering-Project\Darius and Jackson\News App\News App\News App\obj\Debug\News App.pdb
