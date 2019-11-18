@@ -1,0 +1,9 @@
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\bin\Debug\Word Generator (Remove).exe.config
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\bin\Debug\Word Generator (Remove).exe
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\bin\Debug\Word Generator (Remove).pdb
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\obj\Debug\Word Generator (Remove).csprojAssemblyReference.cache
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\obj\Debug\Word_Generator__Remove_.Form1.resources
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\obj\Debug\Word_Generator__Remove_.Properties.Resources.resources
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\obj\Debug\Word Generator (Remove).csproj.GenerateResource.cache
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\obj\Debug\Word Generator (Remove).exe
+C:\Users\dariu\source\repos\Word Generator (Remove)\Word Generator (Remove)\obj\Debug\Word Generator (Remove).pdb
