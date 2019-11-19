@@ -18,10 +18,10 @@ namespace News_App
         {
             Console.WriteLine("Articles Number" + Number);
             Panel NextPanel = new Panel();
-            NextPanel.Location = new Point(10, 0 + (Number * 130));
+            NextPanel.Location = new Point(10, 0 + (Number * 110));
             NextPanel.Size = new Size(490, 106);
-            NextPanel.BackColor = Color.Transparent;
-            NextPanel.Visible = true;
+            NextPanel.BackColor = Color.DimGray;
+			NextPanel.Visible = true;
             NextPanel.Parent = TheParent;
 
             PictureBox NewsImage = new PictureBox();
