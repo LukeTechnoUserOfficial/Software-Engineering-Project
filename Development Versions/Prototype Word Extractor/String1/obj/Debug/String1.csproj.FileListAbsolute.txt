@@ -1,0 +1,18 @@
+C:\Users\computing\source\repos\String1\String1\bin\Debug\String1.exe.config
+C:\Users\computing\source\repos\String1\String1\bin\Debug\String1.exe
+C:\Users\computing\source\repos\String1\String1\bin\Debug\String1.pdb
+C:\Users\computing\source\repos\String1\String1\obj\Debug\String1.csprojAssemblyReference.cache
+C:\Users\computing\source\repos\String1\String1\obj\Debug\String1.csproj.CoreCompileInputs.cache
+C:\Users\computing\source\repos\String1\String1\obj\Debug\String1.exe
+C:\Users\computing\source\repos\String1\String1\obj\Debug\String1.pdb
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\bin\Debug\String1.exe.config
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\bin\Debug\String1.exe
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\bin\Debug\String1.pdb
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\obj\Debug\String1.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\obj\Debug\String1.csproj.CoreCompileInputs.cache
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\obj\Debug\String1.exe
+C:\Users\computing\Desktop\Software-Engineering-Project\String1\String1\obj\Debug\String1.pdb
+C:\Users\computing\Desktop\Versions\Prototype Word Extractor\String1\obj\Debug\String1.csprojAssemblyReference.cache
+C:\Users\computing\Desktop\Versions\Prototype Word Extractor\String1\obj\Debug\String1.csproj.CoreCompileInputs.cache
+C:\Users\computing\Desktop\Versions\Prototype Word Extractor\String1\obj\Debug\String1.exe
+C:\Users\computing\Desktop\Versions\Prototype Word Extractor\String1\obj\Debug\String1.pdb
